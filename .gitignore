@@ -2,3 +2,11 @@
 build/
 
 CmakeLists.txt
+CMakeCache.txt
+CMakeFiles/
+Makefile
+CPackConfig.cmake
+CPackSourceConfig.cmake
+cmake_install.cmake
+compile_commands.json
+_deps/
