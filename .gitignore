@@ -1,0 +1,4 @@
+.vscode/
+build/
+
+CmakeLists.txt
